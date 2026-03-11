@@ -1,9 +1,12 @@
-# 👽 Hi I'm PREM:
-🔭 I’m currently working on Personal Projects
+# 👽 Hi I'm PREM: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=premog)
 
-🌱 I’m currently learning Java, Springboot and Microservices
+<img align="right" width="400" height="240" src="https://github.com/premog/Blurred-Neon-Pic/blob/db45dde578f4a33eee4760b857381df8e4394d44/Hacking%20Hacker%20Man%20GIF%20by%20PERFECTL00P.gif" alt="hacking cat gif"/>
 
-👯 I’m looking to collaborate on Android apps and Software Development
+🔭 I'm currently working on Personal Projects
+
+🌱 I'm currently learning Java, Springboot and Microservices
+
+👯 I'm looking to collaborate on Android apps and Software Development
 
 💬 Ask me about Java, Python, DSA
 
@@ -20,8 +23,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=premog&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
